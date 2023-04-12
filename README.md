@@ -1,6 +1,6 @@
-# MAE 290b Final Project
-Numerical Methods for Differential Equations Final Project Using ADI
+# Multidisciplinary-design-optimization
+Multidisciplinary design optimization project for MAE 207 
 
-Final Project Code for MAE290B (UCSD Winter 2023)
+Final Project Code for MAE207 (UCSD Winter 2023)
 
-Code written as part of the final project for MAE 290B: Numerical Methods for Differential Equations. The Alternating Direction Implicit (ADI) method was implemented to solve an unsteady, nonhomogeneous reaction-diffusion equation with zero Dirichlet boundary condition on a 2D rectangular domain. The source strength and initial condition are provided.
+Code written as part of the final project for MAE 207: Multidisciplinary-design-optimization. The Quasi-Newton method BFGS was used to solve for the most optimum angles for the ramps of a external compression inlet for an airbreathing supersonic vehicle.
