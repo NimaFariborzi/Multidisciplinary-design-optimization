@@ -1,5 +1,5 @@
-# Multidisciplinary-design-optimization
-Multidisciplinary design optimization project for MAE 207 
+# MAE 290b Final Project
+Numerical Methods for Differential Equations Final Project Using ADI
 
 Final Project Code for MAE290B (UCSD Winter 2023)
 
